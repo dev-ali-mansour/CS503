@@ -3,4 +3,9 @@ project(CS503)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(CS503 main.cpp)
+add_executable(CS503
+#        main.cpp
+#        variables.cpp
+#        input_output.cpp
+#        relational_operators.cpp
+        logical_operators.cpp)
