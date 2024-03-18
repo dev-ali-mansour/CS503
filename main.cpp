@@ -1,8 +1,9 @@
-#include<iostream>
+#include <iostream>
 
 using namespace std;
 
-int main() {
+int main()
+{
     // Single Comment
     /* This is Multiline Comment
        You can type comments on multiple lines
@@ -10,17 +11,16 @@ int main() {
      */
     /*std::cout << "Hello, World!" << std::endl;
     std::cout << "Hello, World!" << std::endl;*/
-//    cout << "Hello, Ahmed! ";
-//    cout << "Welcome to C++!";
+    //    cout << "Hello, Ahmed! ";
+    //    cout << "Welcome to C++!";
 
-//    cout << "Hello, Ahmed! " << "Welcome To C++!";
+    //    cout << "Hello, Ahmed! " << "Welcome To C++!";
     cout << "Hello, Ahmed!" << endl << "Welcome To C++!";
-    cout<<endl;
-    cout<<"Enter your name\n";
-    cout<<"Your name here"<<endl;
-    cout<<"Your age:\tEnter here\\"<<endl;
-    cout<<"Ahmed said \"C++ is intersting\"";
-
+    cout << endl;
+    cout << "Enter your name\n";
+    cout << "Your name here" << endl;
+    cout << "Your age:\tEnter here\\" << endl;
+    cout << "Ahmed said \"C++ is intersting\""<< endl;
 
     return 0;
 }
