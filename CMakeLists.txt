@@ -8,4 +8,5 @@ add_executable(CS503
         #        variables.cpp
         #        input_output.cpp
         #        relational_operators.cpp
-        logical_operators.cpp)
+        #        logical_operators.cpp
+        days.cpp)
