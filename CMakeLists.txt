@@ -15,5 +15,6 @@ add_executable(CS503
         #        lectures/lec_01/AddingTwoIntegerNumbers.cpp
         #        lectures/lec_01/HomeWork.cpp
         #        lectures/lec_01/fahren.cpp
-        lectures/lect_02/cont_data_types.cpp
+        #        lectures/lect_02/cont_data_types.cpp
+        lectures/lect_02/circarea.cpp
 )
