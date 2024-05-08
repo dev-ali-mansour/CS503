@@ -20,7 +20,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create bool_legal_age.cpp.">
+    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create absolute_value.cpp.">
+      <change afterPath="$PROJECT_DIR$/lectures/lect_03/home_work_absolute_value.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,7 +128,7 @@
       <workItem from="1711636254628" duration="480000" />
       <workItem from="1711636739515" duration="1138000" />
       <workItem from="1715189067955" duration="114000" />
-      <workItem from="1715189237646" duration="8817000" />
+      <workItem from="1715189237646" duration="9430000" />
     </task>
     <task id="LOCAL-00001" summary="chore: Convert Project TO CLion Project">
       <option name="closed" value="true" />
@@ -280,7 +282,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715200211312</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="feat: Create absolute_value.cpp.">
+      <option name="closed" value="true" />
+      <created>1715200525541</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1715200525541</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,6 +328,7 @@
     <MESSAGE value="feat: Create increment_decrement.cpp." />
     <MESSAGE value="feat: Create int_legal_age.cpp." />
     <MESSAGE value="feat: Create bool_legal_age.cpp." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Create bool_legal_age.cpp." />
+    <MESSAGE value="feat: Create absolute_value.cpp." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Create absolute_value.cpp." />
   </component>
 </project>
