@@ -20,8 +20,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create wages.cpp.">
-      <change afterPath="$PROJECT_DIR$/lectures/lect_03/homework_wages.cpp" afterDir="false" />
+    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create homework_wages.cpp.">
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +126,7 @@
       <workItem from="1711636254628" duration="480000" />
       <workItem from="1711636739515" duration="1138000" />
       <workItem from="1715189067955" duration="114000" />
-      <workItem from="1715189237646" duration="10359000" />
+      <workItem from="1715189237646" duration="10738000" />
     </task>
     <task id="LOCAL-00001" summary="chore: Convert Project TO CLion Project">
       <option name="closed" value="true" />
@@ -312,7 +312,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715201840365</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="feat: Create homework_wages.cpp.">
+      <option name="closed" value="true" />
+      <created>1715202068795</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1715202068795</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -354,6 +362,7 @@
     <MESSAGE value="feat: Create home_work_absolute_value.cpp." />
     <MESSAGE value="feat: Create score_with_semantic_error.cpp." />
     <MESSAGE value="feat: Create wages.cpp." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Create wages.cpp." />
+    <MESSAGE value="feat: Create homework_wages.cpp." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Create homework_wages.cpp." />
   </component>
 </project>
