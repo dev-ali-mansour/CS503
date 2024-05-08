@@ -13,5 +13,6 @@ add_executable(CS503
         #        months.cpp
         #        lectures/lec_01/first.cpp
         #        lectures/lec_01/AddingTwoIntegerNumbers.cpp
-        lectures/lec_01/HomeWork.cpp
+        #        lectures/lec_01/HomeWork.cpp
+        lectures/lec_01/fahren.cpp
 )
