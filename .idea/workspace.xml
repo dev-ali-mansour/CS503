@@ -20,8 +20,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create arithmetic_operators.cpp.">
-      <change afterPath="$PROJECT_DIR$/lectures/lect_02/increment_decrement.cpp" afterDir="false" />
+    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create increment_decrement.cpp.">
+      <change afterPath="$PROJECT_DIR$/lectures/lect_03/int_legal_age.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
@@ -127,7 +127,7 @@
       <workItem from="1711636254628" duration="480000" />
       <workItem from="1711636739515" duration="1138000" />
       <workItem from="1715189067955" duration="114000" />
-      <workItem from="1715189237646" duration="7259000" />
+      <workItem from="1715189237646" duration="8404000" />
     </task>
     <task id="LOCAL-00001" summary="chore: Convert Project TO CLion Project">
       <option name="closed" value="true" />
@@ -257,7 +257,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715196674049</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="feat: Create increment_decrement.cpp.">
+      <option name="closed" value="true" />
+      <created>1715199492279</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1715199492279</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,6 +300,7 @@
     <MESSAGE value="feat: Continue Data Types In cont_data_types.cpp." />
     <MESSAGE value="feat: Create average.cpp." />
     <MESSAGE value="feat: Create arithmetic_operators.cpp." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Create arithmetic_operators.cpp." />
+    <MESSAGE value="feat: Create increment_decrement.cpp." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Create increment_decrement.cpp." />
   </component>
 </project>
