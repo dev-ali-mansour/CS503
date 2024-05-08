@@ -20,7 +20,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create students.cpp.">
+    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create question_sample_1.cpp.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,7 +127,7 @@
       <workItem from="1711636254628" duration="480000" />
       <workItem from="1711636739515" duration="1138000" />
       <workItem from="1715189067955" duration="114000" />
-      <workItem from="1715189237646" duration="11097000" />
+      <workItem from="1715189237646" duration="11870000" />
     </task>
     <task id="LOCAL-00001" summary="chore: Convert Project TO CLion Project">
       <option name="closed" value="true" />
@@ -328,7 +329,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715202529844</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="feat: Create question_sample_1.cpp.">
+      <option name="closed" value="true" />
+      <created>1715202844446</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1715202844446</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -372,6 +381,7 @@
     <MESSAGE value="feat: Create wages.cpp." />
     <MESSAGE value="feat: Create homework_wages.cpp." />
     <MESSAGE value="feat: Create students.cpp." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Create students.cpp." />
+    <MESSAGE value="feat: Create question_sample_1.cpp." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Create question_sample_1.cpp." />
   </component>
 </project>

@@ -28,5 +28,6 @@ add_executable(CS503
         #        lectures/lect_03/wages.cpp
         #        lectures/lect_03/homework_wages.cpp
         #        lectures/lect_03/students.cpp
-        lectures/lect_03/question_sample_1.cpp
+        #        lectures/lect_03/question_sample_1.cpp
+        lectures/lect_03/question_sample_2.cpp
 )
