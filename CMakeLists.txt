@@ -18,5 +18,6 @@ add_executable(CS503
         #        lectures/lect_02/cont_data_types.cpp
         #        lectures/lect_02/circarea.cpp
         #        lectures/lect_02/average.cpp
-        lectures/lect_02/arithmetic_operators.cpp
+        #        lectures/lect_02/arithmetic_operators.cpp
+        lectures/lect_02/increment_decrement.cpp
 )
