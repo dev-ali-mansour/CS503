@@ -10,7 +10,9 @@
     <option name="reloaded" value="true" />
   </component>
   <component name="CMakeRunConfigurationManager">
-    <generated />
+    <generated>
+      <config projectName="CS503" targetName="CS503" />
+    </generated>
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -18,11 +20,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/tasks.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS503 Workspace.code-workspace" beforeDir="false" />
+    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create HomeWork.cpp.">
+      <change afterPath="$PROJECT_DIR$/lectures/lec_01/fahren.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +38,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dev-ali-mansour&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dev-ali-mansour/CS503.git&quot;,
+    &quot;accountId&quot;: &quot;71c0819b-4ae9-4b6f-93a1-999914ebb7b6&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -54,6 +68,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "CMake Application.CS503.executor": "Run",
     "CMake Debug.CS503.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -62,7 +77,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Developing/Projects/C++/CS503",
+    "last_opened_file_path": "D:/Developing/Projects/C++/CS503/lectures/lec_01",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -73,18 +88,28 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Developing\Projects\C++\CS503\lectures\lec_01" />
       <recent name="D:\Developing\Projects\C++\CS503" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="CMake Application.CS503">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CS503" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory" temporary="true">
       <method v="2" />
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="CS503" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS503" TARGET_NAME="CS503" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS503" RUN_TARGET_NAME="CS503">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="CMake Application.CS503" />
+      <item itemvalue="CMake Debug.CS503" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="CMake Debug.CS503" />
@@ -101,7 +126,83 @@
       <updated>1711636097992</updated>
       <workItem from="1711636100621" duration="19000" />
       <workItem from="1711636254628" duration="480000" />
+      <workItem from="1711636739515" duration="1138000" />
+      <workItem from="1715189067955" duration="114000" />
+      <workItem from="1715189237646" duration="1925000" />
     </task>
+    <task id="LOCAL-00001" summary="chore: Convert Project TO CLion Project">
+      <option name="closed" value="true" />
+      <created>1711636924873</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711636924873</updated>
+    </task>
+    <task id="LOCAL-00002" summary="chore: Convert Project TO CLion Project">
+      <option name="closed" value="true" />
+      <created>1711637030519</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711637030519</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: Create days File.">
+      <option name="closed" value="true" />
+      <created>1711637195980</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711637195980</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: Create months File.">
+      <option name="closed" value="true" />
+      <created>1711637535291</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711637535291</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: Create first.cpp.">
+      <option name="closed" value="true" />
+      <created>1715189697489</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715189697489</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat: Create first.cpp.">
+      <option name="closed" value="true" />
+      <created>1715189709744</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715189709744</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat: Create first.cpp.">
+      <option name="closed" value="true" />
+      <created>1715190325729</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715190325729</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat: Create AddingTwoIntegerNumbers.cpp.">
+      <option name="closed" value="true" />
+      <created>1715190645163</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1715190645163</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat: Create HomeWork.cpp.">
+      <option name="closed" value="true" />
+      <created>1715190827940</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1715190827940</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,5 +212,25 @@
     <isAutomaticCheckingOnLaunch value="false" />
     <isAutomaticFoundErrors value="true" />
     <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chore: Convert Project TO CLion Project" />
+    <MESSAGE value="feat: Create days File." />
+    <MESSAGE value="feat: Create months File." />
+    <MESSAGE value="feat: Create first.cpp." />
+    <MESSAGE value="feat: Create AddingTwoIntegerNumbers.cpp." />
+    <MESSAGE value="feat: Create HomeWork.cpp." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Create HomeWork.cpp." />
   </component>
 </project>
