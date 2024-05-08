@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    int ans = 27;
+    int ans = 27;           // must be initialized
     ans += 10;              // same as ans = ans + 10
     cout << ans << "\t";
     ans -= 7;               // same as ans = ans - 7
