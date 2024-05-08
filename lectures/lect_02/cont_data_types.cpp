@@ -36,6 +36,16 @@ int main() {
 
     const float CONVERSION = 2.5f; // to avoid truncation from double to float.
 
+    // Bool Type
+    // Variables of type bool can have only two possible values: true and false.
+    bool isValid;
+
+    // Multiple Declaration
+    long pop1, pop2, pop3;
+
+    // Multiple declaration and initialization:
+    long pop5 = 2425785, pop6 = 47, pop7 = 9761;
+
 
 
     return 0;
