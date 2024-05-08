@@ -23,5 +23,6 @@ add_executable(CS503
         #        lectures/lect_03/int_legal_age.cpp
         #        lectures/lect_03/bool_legal_age.cpp
         #        lectures/lect_03/absolute_value.cpp
-        lectures/lect_03/home_work_absolute_value.cpp
+        #        lectures/lect_03/home_work_absolute_value.cpp
+        lectures/lect_03/score_with_semantic_error.cpp
 )
