@@ -10,5 +10,8 @@ add_executable(CS503
         #        relational_operators.cpp
         #        logical_operators.cpp
         #        days.cpp
-#        months.cpp
-        lectures/lec_01/first.cpp)
+        #        months.cpp
+        #        lectures/lec_01/first.cpp
+        #        lectures/lec_01/AddingTwoIntegerNumbers.cpp
+        lectures/lec_01/HomeWork.cpp
+)
