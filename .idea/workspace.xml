@@ -20,9 +20,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create equality_operator.cpp.">
-      <change afterPath="$PROJECT_DIR$/lectures/lec_04/equality_operator_2.cpp" afterDir="false" />
+    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create equality_operator_2.cpp.">
+      <change afterPath="$PROJECT_DIR$/lectures/lec_04/switch_grade.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +130,7 @@
       <workItem from="1711636739515" duration="1138000" />
       <workItem from="1715189067955" duration="114000" />
       <workItem from="1715189237646" duration="13254000" />
-      <workItem from="1715240854279" duration="3978000" />
+      <workItem from="1715240854279" duration="4692000" />
     </task>
     <task id="LOCAL-00001" summary="chore: Convert Project TO CLion Project">
       <option name="closed" value="true" />
@@ -419,7 +420,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715245412975</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="feat: Create equality_operator_2.cpp.">
+      <option name="closed" value="true" />
+      <created>1715245842014</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1715245842014</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -442,7 +451,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: Create fahren.cpp." />
     <MESSAGE value="feat: Create cont_data_types.cpp." />
     <MESSAGE value="feat: Create circarea.cpp." />
     <MESSAGE value="feat: Continue Data Types In cont_data_types.cpp." />
@@ -467,6 +475,7 @@
     <MESSAGE value="feat: Create larger_number.cpp." />
     <MESSAGE value="feat: Create months.cpp." />
     <MESSAGE value="feat: Create equality_operator.cpp." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Create equality_operator.cpp." />
+    <MESSAGE value="feat: Create equality_operator_2.cpp." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Create equality_operator_2.cpp." />
   </component>
 </project>
