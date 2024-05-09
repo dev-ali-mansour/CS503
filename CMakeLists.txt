@@ -37,5 +37,6 @@ add_executable(CS503
         #        lectures/lec_04/gpa.cpp
         #        lectures/lec_04/larger_number.cpp
         #        lectures/lec_04/months.cpp
-        lectures/lec_04/equality_operator.cpp
+#        lectures/lec_04/equality_operator.cpp
+        lectures/lec_04/equality_operator_2.cpp
 )
