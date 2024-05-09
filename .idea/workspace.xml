@@ -20,10 +20,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create fasting.cpp.">
-      <change afterPath="$PROJECT_DIR$/labs/lab_01/assignment_1.cpp" afterDir="false" />
+    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create assignment_1.cpp.">
+      <change afterPath="$PROJECT_DIR$/labs/lab_02/Vowels.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/lab_02/evenOdd.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/lab_02/negPos.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/lab_02/vowelsSwitch.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +78,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Developing/Projects/C++/CS503/labs/lab_01",
+    "last_opened_file_path": "D:/Developing/Projects/C++/CS503/labs/lab_02",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -87,11 +89,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Developing\Projects\C++\CS503\labs\lab_02" />
       <recent name="D:\Developing\Projects\C++\CS503\labs\lab_01" />
       <recent name="D:\Developing\Projects\C++\CS503\lectures\lec_04" />
       <recent name="D:\Developing\Projects\C++\CS503\lectures\lect_03" />
       <recent name="D:\Developing\Projects\C++\CS503\lectures\lec_01" />
-      <recent name="D:\Developing\Projects\C++\CS503" />
     </key>
   </component>
   <component name="RunManager" selected="CMake Application.CS503">
@@ -131,7 +133,7 @@
       <workItem from="1711636739515" duration="1138000" />
       <workItem from="1715189067955" duration="114000" />
       <workItem from="1715189237646" duration="13254000" />
-      <workItem from="1715240854279" duration="8648000" />
+      <workItem from="1715240854279" duration="9501000" />
     </task>
     <task id="LOCAL-00001" summary="chore: Convert Project TO CLion Project">
       <option name="closed" value="true" />
@@ -501,7 +503,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715249739062</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="feat: Create assignment_1.cpp.">
+      <option name="closed" value="true" />
+      <created>1715250424730</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1715250424730</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -524,7 +534,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: Create home_work_absolute_value.cpp." />
     <MESSAGE value="feat: Create score_with_semantic_error.cpp." />
     <MESSAGE value="feat: Create wages.cpp." />
     <MESSAGE value="feat: Create homework_wages.cpp." />
@@ -549,6 +558,7 @@
     <MESSAGE value="feat: Create Sum.cpp." />
     <MESSAGE value="feat: Create circle.cpp." />
     <MESSAGE value="feat: Create fasting.cpp." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Create fasting.cpp." />
+    <MESSAGE value="feat: Create assignment_1.cpp." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Create assignment_1.cpp." />
   </component>
 </project>
