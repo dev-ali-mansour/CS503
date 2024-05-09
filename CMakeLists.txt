@@ -34,5 +34,6 @@ add_executable(CS503
         #        lectures/lec_04/grade.cpp
         #        lectures/lec_04/temperature.cpp
         #        lectures/lec_04/temperature_2.cpp
-        lectures/lec_04/gpa.cpp
+        #        lectures/lec_04/gpa.cpp
+        lectures/lec_04/larger_number.cpp
 )

@@ -20,7 +20,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create temperature_2.cpp.">
+    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create gpa.cpp.">
+      <change afterPath="$PROJECT_DIR$/lectures/lec_04/largest_number.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -127,7 +129,7 @@
       <workItem from="1711636739515" duration="1138000" />
       <workItem from="1715189067955" duration="114000" />
       <workItem from="1715189237646" duration="13254000" />
-      <workItem from="1715240854279" duration="2430000" />
+      <workItem from="1715240854279" duration="3048000" />
     </task>
     <task id="LOCAL-00001" summary="chore: Convert Project TO CLion Project">
       <option name="closed" value="true" />
@@ -385,7 +387,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715243743135</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="feat: Create gpa.cpp.">
+      <option name="closed" value="true" />
+      <created>1715244174638</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1715244174638</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -408,7 +418,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: Create months File." />
     <MESSAGE value="feat: Create first.cpp." />
     <MESSAGE value="feat: Create AddingTwoIntegerNumbers.cpp." />
     <MESSAGE value="feat: Create HomeWork.cpp." />
@@ -433,6 +442,7 @@
     <MESSAGE value="feat: Create grade.cpp." />
     <MESSAGE value="feat: Create temperature.cpp." />
     <MESSAGE value="feat: Create temperature_2.cpp." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Create temperature_2.cpp." />
+    <MESSAGE value="feat: Create gpa.cpp." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Create gpa.cpp." />
   </component>
 </project>
