@@ -20,8 +20,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create equality_operator_2.cpp.">
-      <change afterPath="$PROJECT_DIR$/lectures/lec_04/switch_grade.cpp" afterDir="false" />
+    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create switch_grade.cpp.">
+      <change afterPath="$PROJECT_DIR$/lectures/lec_04/break.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
@@ -130,7 +130,7 @@
       <workItem from="1711636739515" duration="1138000" />
       <workItem from="1715189067955" duration="114000" />
       <workItem from="1715189237646" duration="13254000" />
-      <workItem from="1715240854279" duration="4692000" />
+      <workItem from="1715240854279" duration="5266000" />
     </task>
     <task id="LOCAL-00001" summary="chore: Convert Project TO CLion Project">
       <option name="closed" value="true" />
@@ -428,7 +428,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715245842014</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="feat: Create switch_grade.cpp.">
+      <option name="closed" value="true" />
+      <created>1715246245320</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1715246245320</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -451,7 +459,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: Create cont_data_types.cpp." />
     <MESSAGE value="feat: Create circarea.cpp." />
     <MESSAGE value="feat: Continue Data Types In cont_data_types.cpp." />
     <MESSAGE value="feat: Create average.cpp." />
@@ -476,6 +483,7 @@
     <MESSAGE value="feat: Create months.cpp." />
     <MESSAGE value="feat: Create equality_operator.cpp." />
     <MESSAGE value="feat: Create equality_operator_2.cpp." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Create equality_operator_2.cpp." />
+    <MESSAGE value="feat: Create switch_grade.cpp." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Create switch_grade.cpp." />
   </component>
 </project>
