@@ -19,6 +19,5 @@ int main() {
     int d = c++;
     cout << "the value of d is: " << d << endl;
     cout << "the new value of c is: " << c << endl;
-    cout << 3 / 2 + 5.5;
     return 0;
 }

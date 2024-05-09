@@ -7,7 +7,7 @@ int main() {
 
     cout << "Please enter an integer number" << endl;
     cin >> number;
-    if (number % 2 != 0)
+    if (number % 2 == 0)
         cout << "This is an even number";
 
     return 0;
