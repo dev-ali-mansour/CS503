@@ -33,5 +33,6 @@ add_executable(CS503
         #        lectures/lec_04/interest_rate.cpp
         #        lectures/lec_04/grade.cpp
         #        lectures/lec_04/temperature.cpp
-        lectures/lec_04/temperature_2.cpp
+        #        lectures/lec_04/temperature_2.cpp
+        lectures/lec_04/gpa.cpp
 )
