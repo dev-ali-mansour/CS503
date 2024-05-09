@@ -20,10 +20,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create break.cpp.">
-      <change afterPath="$PROJECT_DIR$/lectures/lec_04/switch_score.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create switch_score.cpp.">
+      <change afterPath="$PROJECT_DIR$/lectures/lec_04/switch_score_enhanced.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +128,7 @@
       <workItem from="1711636739515" duration="1138000" />
       <workItem from="1715189067955" duration="114000" />
       <workItem from="1715189237646" duration="13254000" />
-      <workItem from="1715240854279" duration="5928000" />
+      <workItem from="1715240854279" duration="6055000" />
     </task>
     <task id="LOCAL-00001" summary="chore: Convert Project TO CLion Project">
       <option name="closed" value="true" />
@@ -444,7 +442,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715247085031</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="feat: Create switch_score.cpp.">
+      <option name="closed" value="true" />
+      <created>1715247569396</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1715247569396</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -467,7 +473,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: Continue Data Types In cont_data_types.cpp." />
     <MESSAGE value="feat: Create average.cpp." />
     <MESSAGE value="feat: Create arithmetic_operators.cpp." />
     <MESSAGE value="feat: Create increment_decrement.cpp." />
@@ -492,6 +497,7 @@
     <MESSAGE value="feat: Create equality_operator_2.cpp." />
     <MESSAGE value="feat: Create switch_grade.cpp." />
     <MESSAGE value="feat: Create break.cpp." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Create break.cpp." />
+    <MESSAGE value="feat: Create switch_score.cpp." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Create switch_score.cpp." />
   </component>
 </project>
