@@ -43,5 +43,12 @@ add_executable(CS503
         #        lectures/lec_04/break.cpp
         #        lectures/lec_04/switch_score.cpp
         #        lectures/lec_04/switch_score_enhanced.cpp
-        lectures/lec_04/age_vote.cpp
+        #        lectures/lec_04/switch_score.cpp
+        #        lectures/lec_04/switch_score_enhanced.cpp
+        #        lectures/lec_04/age_vote.cpp
+        #        labs/lab_01/name.cpp
+        #        labs/lab_01/Sum.cpp
+        #        labs/lab_01/circle.cpp
+        #        labs/lab_01/fasting.cpp
+        labs/lab_01/assignment_1.cpp
 )
