@@ -20,12 +20,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create assignment_1.cpp.">
+    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create evenOdd.cpp.">
       <change afterPath="$PROJECT_DIR$/labs/lab_02/Vowels.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/lab_02/evenOdd.cpp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/labs/lab_02/negPos.cpp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/labs/lab_02/vowelsSwitch.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +131,7 @@
       <workItem from="1711636739515" duration="1138000" />
       <workItem from="1715189067955" duration="114000" />
       <workItem from="1715189237646" duration="13254000" />
-      <workItem from="1715240854279" duration="9501000" />
+      <workItem from="1715240854279" duration="9550000" />
     </task>
     <task id="LOCAL-00001" summary="chore: Convert Project TO CLion Project">
       <option name="closed" value="true" />
@@ -511,7 +509,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715250424730</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="feat: Create evenOdd.cpp.">
+      <option name="closed" value="true" />
+      <created>1715252775250</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1715252775250</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -534,7 +540,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: Create score_with_semantic_error.cpp." />
     <MESSAGE value="feat: Create wages.cpp." />
     <MESSAGE value="feat: Create homework_wages.cpp." />
     <MESSAGE value="feat: Create students.cpp." />
@@ -559,6 +564,7 @@
     <MESSAGE value="feat: Create circle.cpp." />
     <MESSAGE value="feat: Create fasting.cpp." />
     <MESSAGE value="feat: Create assignment_1.cpp." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Create assignment_1.cpp." />
+    <MESSAGE value="feat: Create evenOdd.cpp." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Create evenOdd.cpp." />
   </component>
 </project>

@@ -51,5 +51,6 @@ add_executable(CS503
         #        labs/lab_01/circle.cpp
         #        labs/lab_01/fasting.cpp
         #        labs/lab_01/assignment_1.cpp
-        labs/lab_02/evenOdd.cpp
+        #        labs/lab_02/evenOdd.cpp
+        labs/lab_02/Vowels.cpp
 )
