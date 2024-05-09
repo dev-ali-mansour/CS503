@@ -30,5 +30,6 @@ add_executable(CS503
         #        lectures/lect_03/students.cpp
         #        lectures/lect_03/question_sample_1.cpp
         #        lectures/lect_03/question_sample_2.cpp
-        lectures/lec_04/interest_rate.cpp
+        #        lectures/lec_04/interest_rate.cpp
+        lectures/lec_04/grade.cpp
 )
