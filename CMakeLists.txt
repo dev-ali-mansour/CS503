@@ -42,5 +42,6 @@ add_executable(CS503
         #        lectures/lec_04/switch_grade.cpp
         #        lectures/lec_04/break.cpp
         #        lectures/lec_04/switch_score.cpp
-        lectures/lec_04/switch_score_enhanced.cpp
+        #        lectures/lec_04/switch_score_enhanced.cpp
+        lectures/lec_04/age_vote.cpp
 )
