@@ -84,6 +84,7 @@ add_executable(CS503
         #        lectures/lec_05/nested_loop.cpp
         #        lectures/lec_05/question_sample_1_a.cpp
         #        lectures/lec_05/question_sample_1_b.cpp
-#        lectures/lec_05/question_sample_1_c.cpp
-        lectures/lec_05/question_sample_1_d.cpp
+        #        lectures/lec_05/question_sample_1_c.cpp
+        #        lectures/lec_05/question_sample_1_d.cpp
+        lectures/lec_05/question_sample_1_e.cpp
 )

@@ -20,9 +20,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create question_sample_1_c.cpp.">
-      <change afterPath="$PROJECT_DIR$/lectures/lec_05/question_sample_1_d.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create question_sample_1_d.cpp.">
+      <change afterPath="$PROJECT_DIR$/lectures/lec_05/question_sample_1_e.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,15 +133,7 @@
       <workItem from="1715189067955" duration="114000" />
       <workItem from="1715189237646" duration="13254000" />
       <workItem from="1715240854279" duration="10294000" />
-      <workItem from="1715264768589" duration="26396000" />
-    </task>
-    <task id="LOCAL-00038" summary="feat: Create switch_grade.cpp.">
-      <option name="closed" value="true" />
-      <created>1715246245320</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1715246245320</updated>
+      <workItem from="1715264768589" duration="26557000" />
     </task>
     <task id="LOCAL-00039" summary="feat: Create break.cpp.">
       <option name="closed" value="true" />
@@ -528,7 +519,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715327044417</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="feat: Create question_sample_1_d.cpp.">
+      <option name="closed" value="true" />
+      <created>1715327225967</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1715327225967</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -551,7 +550,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: Create boxes.cpp." />
     <MESSAGE value="feat: Create sentinel.cpp." />
     <MESSAGE value="feat: Create number_guessing_game.cpp." />
     <MESSAGE value="feat: Create number_guessing_game_limited.cpp." />
@@ -576,7 +574,8 @@
     <MESSAGE value="feat: Create question_sample_1_a.cpp." />
     <MESSAGE value="feat: Create question_sample_1_b.cpp." />
     <MESSAGE value="feat: Create question_sample_1_c.cpp." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Create question_sample_1_c.cpp." />
+    <MESSAGE value="feat: Create question_sample_1_d.cpp." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Create question_sample_1_d.cpp." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
