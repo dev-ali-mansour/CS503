@@ -20,7 +20,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create reference_parameter.cpp.">
+    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create score.cpp.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,15 +133,7 @@
       <workItem from="1715189067955" duration="114000" />
       <workItem from="1715189237646" duration="13254000" />
       <workItem from="1715240854279" duration="10294000" />
-      <workItem from="1715264768589" duration="32258000" />
-    </task>
-    <task id="LOCAL-00052" summary="chore: Update decrement comment In increment_decrement.cpp.">
-      <option name="closed" value="true" />
-      <created>1715277740667</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1715277740667</updated>
+      <workItem from="1715264768589" duration="32391000" />
     </task>
     <task id="LOCAL-00053" summary="refactor: Enhance Some Codes.">
       <option name="closed" value="true" />
@@ -526,7 +519,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715333073277</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="feat: Create score.cpp.">
+      <option name="closed" value="true" />
+      <created>1715333175281</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1715333175281</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -549,7 +550,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: Create for_execute_once.cpp." />
     <MESSAGE value="feat: Create for_omitted_condition.cpp." />
     <MESSAGE value="feat: Create sum_avg_5_numbers.cpp." />
     <MESSAGE value="feat: Create while_loop.cpp." />
@@ -574,7 +574,8 @@
     <MESSAGE value="feat: Create print.cpp." />
     <MESSAGE value="feat: Create value_parameter.cpp." />
     <MESSAGE value="feat: Create reference_parameter.cpp." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Create reference_parameter.cpp." />
+    <MESSAGE value="feat: Create score.cpp." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Create score.cpp." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
