@@ -103,5 +103,6 @@ add_executable(CS503
         #        lectures/lec_07/static_var.cpp
         #        lectures/lec_07/question_sample_1.cpp
         #        lectures/lec_07/question_sample_2.cpp
-        lectures/lec_07/question_sample_3.cpp
+        #        lectures/lec_07/question_sample_3.cpp
+        lectures/lec_07/question_sample_4.cpp
 )

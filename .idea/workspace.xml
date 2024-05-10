@@ -20,8 +20,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="changes" comment="feat: Create question_sample_2.cpp.">
-      <change afterPath="$PROJECT_DIR$/lectures/lec_07/question_sample_3.cpp" afterDir="false" />
+    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="changes" comment="feat: Create question_sample_3.cpp.">
+      <change afterPath="$PROJECT_DIR$/lectures/lec_07/question_sample_4.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
@@ -77,7 +77,7 @@
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Developing/Projects/C++/CS503/lectures/lec_06",
+    "last_opened_file_path": "D:/Developing/Projects/C++/CS503/lectures/lec_07",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -89,11 +89,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Developing\Projects\C++\CS503\lectures\lec_07" />
       <recent name="D:\Developing\Projects\C++\CS503\lectures\lec_06" />
       <recent name="D:\Developing\Projects\C++\CS503\lectures\lec_05" />
       <recent name="D:\Developing\Projects\C++\CS503\labs\lab_02" />
       <recent name="D:\Developing\Projects\C++\CS503\labs\lab_01" />
-      <recent name="D:\Developing\Projects\C++\CS503\lectures\lec_04" />
     </key>
   </component>
   <component name="RunManager" selected="CMake Application.CS503">
@@ -134,15 +134,7 @@
       <workItem from="1715189067955" duration="114000" />
       <workItem from="1715189237646" duration="13254000" />
       <workItem from="1715240854279" duration="10294000" />
-      <workItem from="1715264768589" duration="35127000" />
-    </task>
-    <task id="LOCAL-00060" summary="feat: Create sentinel.cpp.">
-      <option name="closed" value="true" />
-      <created>1715320193794</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1715320193794</updated>
+      <workItem from="1715264768589" duration="35522000" />
     </task>
     <task id="LOCAL-00061" summary="feat: Create number_guessing_game.cpp.">
       <option name="closed" value="true" />
@@ -528,7 +520,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715342685719</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="feat: Create question_sample_3.cpp.">
+      <option name="closed" value="true" />
+      <created>1715343143552</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1715343143552</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -551,7 +551,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: Create factorial.cpp." />
     <MESSAGE value="feat: Create nested_loop.cpp." />
     <MESSAGE value="feat: Create question_sample_1_a.cpp." />
     <MESSAGE value="feat: Create question_sample_1_b.cpp." />
@@ -576,7 +575,8 @@
     <MESSAGE value="feat: Create static_var.cpp." />
     <MESSAGE value="feat: Create question_sample_1.cpp." />
     <MESSAGE value="feat: Create question_sample_2.cpp." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Create question_sample_2.cpp." />
+    <MESSAGE value="feat: Create question_sample_3.cpp." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Create question_sample_3.cpp." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
