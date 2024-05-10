@@ -63,5 +63,6 @@ add_executable(CS503
         #        lectures/lec_05/boxes.cpp
         #        lectures/lec_05/sentinel.cpp
         #        lectures/lec_05/number_guessing_game.cpp
-        lectures/lec_05/number_guessing_game_limited.cpp
+#        lectures/lec_05/number_guessing_game_limited.cpp
+        lectures/lec_05/number_guessing_game_limited_v2.cpp
 )
