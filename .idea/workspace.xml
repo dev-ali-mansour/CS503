@@ -20,7 +20,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="changes" comment="feat: Create ref_val_params.cpp.">
+    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="changes" comment="feat: Create static_var.cpp.">
+      <change afterPath="$PROJECT_DIR$/lectures/lec_07/question_sample_1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,15 +134,7 @@
       <workItem from="1715189067955" duration="114000" />
       <workItem from="1715189237646" duration="13254000" />
       <workItem from="1715240854279" duration="10294000" />
-      <workItem from="1715264768589" duration="33577000" />
-    </task>
-    <task id="LOCAL-00056" summary="feat: Create example_1.cpp.">
-      <option name="closed" value="true" />
-      <created>1715319168552</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1715319168552</updated>
+      <workItem from="1715264768589" duration="34116000" />
     </task>
     <task id="LOCAL-00057" summary="feat: Create wrong_initialization.cpp.">
       <option name="closed" value="true" />
@@ -526,7 +520,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715341513066</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="feat: Create static_var.cpp.">
+      <option name="closed" value="true" />
+      <created>1715341620659</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1715341620659</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -549,7 +551,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: Create while_loop.cpp." />
     <MESSAGE value="feat: Create do_while_loop.cpp." />
     <MESSAGE value="feat: Create compare_while_do_while.cpp." />
     <MESSAGE value="feat: Create factorial.cpp." />
@@ -574,7 +575,8 @@
     <MESSAGE value="feat: Create score.cpp." />
     <MESSAGE value="feat: Create call_val_vs_ref.cpp." />
     <MESSAGE value="feat: Create ref_val_params.cpp." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Create ref_val_params.cpp." />
+    <MESSAGE value="feat: Create static_var.cpp." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Create static_var.cpp." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

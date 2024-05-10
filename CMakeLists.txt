@@ -100,5 +100,6 @@ add_executable(CS503
         #        lectures/lec_07/score.cpp
         #        lectures/lec_07/call_val_vs_ref.cpp
         #        lectures/lec_07/ref_val_params.cpp
-        lectures/lec_07/static_var.cpp
+        #        lectures/lec_07/static_var.cpp
+        lectures/lec_07/question_sample_1.cpp
 )
