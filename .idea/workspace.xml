@@ -20,24 +20,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create assignment2_2.cpp.">
+    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create example_1.cpp.">
+      <change afterPath="$PROJECT_DIR$/lectures/lec_05/wrong_initialization.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/lect_02/arithmetic_operators.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/lec_02/arithmetic_operators.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/lect_02/average.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/lec_02/average.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/lect_02/circarea.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/lec_02/circarea.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/lect_02/cont_data_types.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/lec_02/cont_data_types.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/lect_02/increment_decrement.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/lec_02/increment_decrement.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/lect_03/absolute_value.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/lec_03/absolute_value.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/lect_03/bool_legal_age.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/lec_03/bool_legal_age.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/lect_03/home_work_absolute_value.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/lec_03/home_work_absolute_value.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/lect_03/homework_wages.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/lec_03/homework_wages.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/lect_03/int_legal_age.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/lec_03/int_legal_age.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/lect_03/question_sample_1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/lec_03/question_sample_1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/lect_03/question_sample_2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/lec_03/question_sample_2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/lect_03/score_with_semantic_error.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/lec_03/score_with_semantic_error.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/lect_03/students.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/lec_03/students.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/lect_03/wages.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/lec_03/wages.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +77,7 @@
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Developing/Projects/C++/CS503/labs/lab_02",
+    "last_opened_file_path": "D:/Developing/Projects/C++/CS503/lectures/lec_05",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -103,11 +89,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Developing\Projects\C++\CS503\lectures\lec_05" />
       <recent name="D:\Developing\Projects\C++\CS503\labs\lab_02" />
       <recent name="D:\Developing\Projects\C++\CS503\labs\lab_01" />
       <recent name="D:\Developing\Projects\C++\CS503\lectures\lec_04" />
       <recent name="D:\Developing\Projects\C++\CS503\lectures\lect_03" />
-      <recent name="D:\Developing\Projects\C++\CS503\lectures\lec_01" />
     </key>
   </component>
   <component name="RunManager" selected="CMake Application.CS503">
@@ -148,15 +134,7 @@
       <workItem from="1715189067955" duration="114000" />
       <workItem from="1715189237646" duration="13254000" />
       <workItem from="1715240854279" duration="10294000" />
-      <workItem from="1715264768589" duration="18059000" />
-    </task>
-    <task id="LOCAL-00007" summary="feat: Create first.cpp.">
-      <option name="closed" value="true" />
-      <created>1715190325729</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1715190325729</updated>
+      <workItem from="1715264768589" duration="18614000" />
     </task>
     <task id="LOCAL-00008" summary="feat: Create AddingTwoIntegerNumbers.cpp.">
       <option name="closed" value="true" />
@@ -542,7 +520,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715318417142</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="feat: Create example_1.cpp.">
+      <option name="closed" value="true" />
+      <created>1715319168552</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1715319168552</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -565,7 +551,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: Create temperature.cpp." />
     <MESSAGE value="feat: Create temperature_2.cpp." />
     <MESSAGE value="feat: Create gpa.cpp." />
     <MESSAGE value="feat: Create larger_number.cpp." />
@@ -590,7 +575,8 @@
     <MESSAGE value="refactor: Enhance Some Codes." />
     <MESSAGE value="feat: feat: Create assignment_2_1.cpp." />
     <MESSAGE value="feat: Create assignment2_2.cpp." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Create assignment2_2.cpp." />
+    <MESSAGE value="feat: Create example_1.cpp." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Create example_1.cpp." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

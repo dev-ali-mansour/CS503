@@ -57,5 +57,6 @@ add_executable(CS503
         #        labs/lab_02/vowelsSwitch.cpp
         #        labs/lab_02/assignment_2_1.cpp
         #        labs/lab_02/assignment2_2.cpp
-        lectures/lec_05/example_1.cpp
+        #        lectures/lec_05/example_1.cpp
+        lectures/lec_05/wrong_initialization.cpp
 )
