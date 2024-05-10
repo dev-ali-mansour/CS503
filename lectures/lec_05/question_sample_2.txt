@@ -1,0 +1,7 @@
+True or False
+        The following while loop terminates if j > 10.
+j = 0;
+while (j <= 10)
+j++;
+
+Solution: True
