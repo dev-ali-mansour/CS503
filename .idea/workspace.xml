@@ -20,7 +20,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create for_wrong_init.cpp.">
+    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create for_wrong_operator.cpp.">
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,15 +132,7 @@
       <workItem from="1715189067955" duration="114000" />
       <workItem from="1715189237646" duration="13254000" />
       <workItem from="1715240854279" duration="10294000" />
-      <workItem from="1715264768589" duration="22623000" />
-    </task>
-    <task id="LOCAL-00023" summary="feat: Create wages.cpp.">
-      <option name="closed" value="true" />
-      <created>1715201840365</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1715201840365</updated>
+      <workItem from="1715264768589" duration="22718000" />
     </task>
     <task id="LOCAL-00024" summary="feat: Create homework_wages.cpp.">
       <option name="closed" value="true" />
@@ -526,7 +518,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715323324330</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="feat: Create for_wrong_operator.cpp.">
+      <option name="closed" value="true" />
+      <created>1715323373495</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1715323373495</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -549,7 +549,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: Create assignment_1.cpp." />
     <MESSAGE value="feat: Create evenOdd.cpp." />
     <MESSAGE value="feat: Create Vowels.cpp." />
     <MESSAGE value="feat: Create negPos.cpp." />
@@ -574,7 +573,8 @@
     <MESSAGE value="feat: Create decrement_for_loop.cpp." />
     <MESSAGE value="feat: Create for_loop_with_steps.cpp." />
     <MESSAGE value="feat: Create for_wrong_init.cpp." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Create for_wrong_init.cpp." />
+    <MESSAGE value="feat: Create for_wrong_operator.cpp." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Create for_wrong_operator.cpp." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
