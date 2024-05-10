@@ -93,5 +93,6 @@ add_executable(CS503
         #        lectures/lec_06/function_prototype.cpp
         #        lectures/lec_06/largest_of_10.cpp
         #        lectures/lec_06/multiples.cpp
-        lectures/lec_07/star_line.cpp
+        #        lectures/lec_07/star_line.cpp
+        lectures/lec_07/print.cpp
 )
