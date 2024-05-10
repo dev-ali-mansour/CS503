@@ -20,9 +20,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create question_sample_3.txt.">
-      <change afterPath="$PROJECT_DIR$/lectures/lec_06/predefined_functions.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create predefined_functions.cpp.">
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,15 +132,7 @@
       <workItem from="1715189067955" duration="114000" />
       <workItem from="1715189237646" duration="13254000" />
       <workItem from="1715240854279" duration="10294000" />
-      <workItem from="1715264768589" duration="27950000" />
-    </task>
-    <task id="LOCAL-00042" summary="feat: Create age_vote.cpp.">
-      <option name="closed" value="true" />
-      <created>1715248118547</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1715248118547</updated>
+      <workItem from="1715264768589" duration="28272000" />
     </task>
     <task id="LOCAL-00043" summary="feat: Create name.cpp.">
       <option name="closed" value="true" />
@@ -528,7 +518,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715327944117</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="feat: Create predefined_functions.cpp.">
+      <option name="closed" value="true" />
+      <created>1715329026062</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1715329026062</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -551,7 +549,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: Create number_guessing_game_limited_v2.cpp." />
     <MESSAGE value="feat: for_loop.cpp." />
     <MESSAGE value="feat: for_compound_statement.cpp." />
     <MESSAGE value="feat: Create homework.cpp." />
@@ -576,7 +573,8 @@
     <MESSAGE value="feat: Create question_sample_1_e.cpp." />
     <MESSAGE value="feat: Create question_sample_2.txt." />
     <MESSAGE value="feat: Create question_sample_3.txt." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Create question_sample_3.txt." />
+    <MESSAGE value="feat: Create predefined_functions.cpp." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Create predefined_functions.cpp." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
