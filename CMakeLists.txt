@@ -69,5 +69,6 @@ add_executable(CS503
         #        lectures/lec_05/for_compound_statement.cpp
         #        lectures/lec_05/homework.cpp
 #        lectures/lec_05/for_empty_body.cpp
-        lectures/lec_05/infinite_omitted_for_loop.cpp
+#        lectures/lec_05/infinite_omitted_for_loop.cpp
+        lectures/lec_05/decrement_for_loop.cpp
 )
