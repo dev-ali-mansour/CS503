@@ -20,9 +20,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create score.cpp.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="changes" comment="feat: Create call_val_vs_ref.cpp.">
+      <change afterPath="$PROJECT_DIR$/lectures/lec_07/call_val_vs_ref.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,15 +132,7 @@
       <workItem from="1715189067955" duration="114000" />
       <workItem from="1715189237646" duration="13254000" />
       <workItem from="1715240854279" duration="10294000" />
-      <workItem from="1715264768589" duration="32391000" />
-    </task>
-    <task id="LOCAL-00053" summary="refactor: Enhance Some Codes.">
-      <option name="closed" value="true" />
-      <created>1715285465276</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1715285465276</updated>
+      <workItem from="1715264768589" duration="32966000" />
     </task>
     <task id="LOCAL-00054" summary="feat: feat: Create assignment_2_1.cpp.">
       <option name="closed" value="true" />
@@ -527,7 +518,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715333175281</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="feat: Create call_val_vs_ref.cpp.">
+      <option name="closed" value="true" />
+      <created>1715340911471</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1715340911471</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -550,7 +549,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: Create for_omitted_condition.cpp." />
     <MESSAGE value="feat: Create sum_avg_5_numbers.cpp." />
     <MESSAGE value="feat: Create while_loop.cpp." />
     <MESSAGE value="feat: Create do_while_loop.cpp." />
@@ -575,7 +573,8 @@
     <MESSAGE value="feat: Create value_parameter.cpp." />
     <MESSAGE value="feat: Create reference_parameter.cpp." />
     <MESSAGE value="feat: Create score.cpp." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Create score.cpp." />
+    <MESSAGE value="feat: Create call_val_vs_ref.cpp." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Create call_val_vs_ref.cpp." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
