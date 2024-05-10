@@ -73,4 +73,5 @@ add_executable(CS503
 #        lectures/lec_05/decrement_for_loop.cpp
         lectures/lec_05/for_loop_with_steps.cpp
         lectures/lec_05/for_wrong_init.cpp
+        lectures/lec_05/for_wrong_operator.cpp
 )
