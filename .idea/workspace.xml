@@ -20,8 +20,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: for_compound_statement.cpp.">
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create homework.cpp.">
+      <change afterPath="$PROJECT_DIR$/lectures/lec_05/for_empty_body.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,15 +132,7 @@
       <workItem from="1715189067955" duration="114000" />
       <workItem from="1715189237646" duration="13254000" />
       <workItem from="1715240854279" duration="10294000" />
-      <workItem from="1715264768589" duration="21825000" />
-    </task>
-    <task id="LOCAL-00017" summary="feat: Create increment_decrement.cpp.">
-      <option name="closed" value="true" />
-      <created>1715199492279</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1715199492279</updated>
+      <workItem from="1715264768589" duration="21953000" />
     </task>
     <task id="LOCAL-00018" summary="feat: Create int_legal_age.cpp.">
       <option name="closed" value="true" />
@@ -526,7 +518,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715322494256</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="feat: Create homework.cpp.">
+      <option name="closed" value="true" />
+      <created>1715322621681</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1715322621681</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -549,7 +549,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: Create switch_score_enhanced.cpp." />
     <MESSAGE value="feat: Create age_vote.cpp." />
     <MESSAGE value="feat: Create name.cpp." />
     <MESSAGE value="feat: Create Sum.cpp." />
@@ -574,7 +573,8 @@
     <MESSAGE value="feat: Create number_guessing_game_limited_v2.cpp." />
     <MESSAGE value="feat: for_loop.cpp." />
     <MESSAGE value="feat: for_compound_statement.cpp." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: for_compound_statement.cpp." />
+    <MESSAGE value="feat: Create homework.cpp." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Create homework.cpp." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
