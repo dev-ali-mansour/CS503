@@ -81,5 +81,6 @@ add_executable(CS503
         #        lectures/lec_05/do_while_loop.cpp
         #        lectures/lec_05/compare_while_do_while.cpp
         #        lectures/lec_05/factorial.cpp
-        lectures/lec_05/nested_loop.cpp
+        #        lectures/lec_05/nested_loop.cpp
+        lectures/lec_05/question_sample_1_a.cpp
 )
