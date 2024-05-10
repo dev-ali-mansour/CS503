@@ -9,5 +9,5 @@ int main() {
 }
 
 /*
-Empty Output
+Output:5
  */

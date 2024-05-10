@@ -104,5 +104,12 @@ add_executable(CS503
         #        lectures/lec_07/question_sample_1.cpp
         #        lectures/lec_07/question_sample_2.cpp
         #        lectures/lec_07/question_sample_3.cpp
-        lectures/lec_07/question_sample_4.cpp
+        #        lectures/lec_07/question_sample_4.cpp
+        #        lectures/lec_07/question_sample_5.cpp
+        #        lectures/lec_08/function_overloading.cpp
+        #        lectures/lec_08/function_overloading_enhanced.cpp
+        #        lectures/lec_08/overloaded_sum.cpp
+        #        lectures/lec_08/factorial_recursive.cpp
+        #        lectures/lec_08/fibonacci_recursive.cpp
+        lectures/lec_08/multiply_recursive.cpp
 )
