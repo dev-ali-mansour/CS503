@@ -20,7 +20,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create decrement_for_loop.cpp.">
+    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="Changes" comment="feat: Create for_loop_with_steps.cpp.">
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -132,15 +132,7 @@
       <workItem from="1715189067955" duration="114000" />
       <workItem from="1715189237646" duration="13254000" />
       <workItem from="1715240854279" duration="10294000" />
-      <workItem from="1715264768589" duration="22493000" />
-    </task>
-    <task id="LOCAL-00021" summary="feat: Create home_work_absolute_value.cpp.">
-      <option name="closed" value="true" />
-      <created>1715201073705</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1715201073705</updated>
+      <workItem from="1715264768589" duration="22576000" />
     </task>
     <task id="LOCAL-00022" summary="feat: Create score_with_semantic_error.cpp.">
       <option name="closed" value="true" />
@@ -526,7 +518,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715323187016</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="feat: Create for_loop_with_steps.cpp.">
+      <option name="closed" value="true" />
+      <created>1715323254604</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1715323254604</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -549,7 +549,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: Create circle.cpp." />
     <MESSAGE value="feat: Create fasting.cpp." />
     <MESSAGE value="feat: Create assignment_1.cpp." />
     <MESSAGE value="feat: Create evenOdd.cpp." />
@@ -574,7 +573,8 @@
     <MESSAGE value="feat: Create for_empty_body.cpp." />
     <MESSAGE value="feat: Create infinite_omitted_for_loop.cpp." />
     <MESSAGE value="feat: Create decrement_for_loop.cpp." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Create decrement_for_loop.cpp." />
+    <MESSAGE value="feat: Create for_loop_with_steps.cpp." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Create for_loop_with_steps.cpp." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
