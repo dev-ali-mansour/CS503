@@ -89,6 +89,7 @@ add_executable(CS503
         #        lectures/lec_05/question_sample_1_e.cpp
         #        lectures/lec_06/predefined_functions.cpp
         #        lectures/lec_06/lar/ger_number.cpp
-        lectures/lec_06/compare_three.cpp
-        lectures/lec_06/function_prototype.cpp
+        #        lectures/lec_06/compare_three.cpp
+        #        lectures/lec_06/function_prototype.cpp
+        lectures/lec_06/largest_of_10.cpp
 )
