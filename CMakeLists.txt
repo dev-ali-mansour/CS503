@@ -55,5 +55,6 @@ add_executable(CS503
         #        labs/lab_02/Vowels.cpp
         #        labs/lab_02/negPos.cpp
         #        labs/lab_02/vowelsSwitch.cpp
-                labs/lab_02/assignment_2_1.cpp
+#                labs/lab_02/assignment_2_1.cpp
+        labs/lab_02/assignment2_2.cpp
 )
