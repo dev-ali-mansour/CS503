@@ -59,6 +59,7 @@ add_executable(CS503
         #        labs/lab_02/assignment2_2.cpp
         #        lectures/lec_05/example_1.cpp
         #        lectures/lec_05/wrong_initialization.cpp
-#        lectures/lec_05/sum_average.cpp
-        lectures/lec_05/boxes.cpp
+        #        lectures/lec_05/sum_average.cpp
+        #        lectures/lec_05/boxes.cpp
+        lectures/lec_05/sentinel.cpp
 )
