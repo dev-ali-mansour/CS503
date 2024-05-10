@@ -1,0 +1,14 @@
+ Correct the following code so that it finds the sum of 20 numbers.
+sum = 0;
+while (count < 20)
+cin >> num;
+sum = sum + num;
+count++;
+
+Solution:
+sum = 0;
+while (count < 20) {
+        cin >> num;
+        sum = sum + num;
+        count++;
+    }
