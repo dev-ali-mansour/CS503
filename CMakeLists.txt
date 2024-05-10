@@ -76,5 +76,6 @@ add_executable(CS503
         #        lectures/lec_05/for_wrong_operator.cpp
         #        lectures/lec_05/for_execute_once.cpp
         #        lectures/lec_05/for_omitted_condition.cpp
-        lectures/lec_05/sum_avg_5_numbers.cpp
+        #        lectures/lec_05/sum_avg_5_numbers.cpp
+        lectures/lec_05/while_loop.cpp
 )
