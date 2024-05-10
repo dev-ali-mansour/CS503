@@ -96,4 +96,5 @@ add_executable(CS503
         #        lectures/lec_07/star_line.cpp
         #        lectures/lec_07/print.cpp
         lectures/lec_07/value_parameter.cpp
+        lectures/lec_07/reference_parameter.cpp
 )
