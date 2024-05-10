@@ -74,5 +74,6 @@ add_executable(CS503
         #        lectures/lec_05/for_loop_with_steps.cpp
         #        lectures/lec_05/for_wrong_init.cpp
         #        lectures/lec_05/for_wrong_operator.cpp
-        lectures/lec_05/for_execute_once.cpp
+        #        lectures/lec_05/for_execute_once.cpp
+        lectures/lec_05/for_omitted_condition.cpp
 )
