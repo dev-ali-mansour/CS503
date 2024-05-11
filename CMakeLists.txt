@@ -112,8 +112,9 @@ add_executable(CS503
         #        lectures/lec_08/factorial_recursive.cpp
         #        lectures/lec_08/fibonacci_recursive.cpp
         #        lectures/lec_08/multiply_recursive.cpp
-#                lectures/lec_09/array_declaration.cpp
+        #        lectures/lec_09/array_declaration.cpp
         #        lectures/lec_09/reverse_five_numbers.cpp
         #        lectures/lec_09/array_operations.cpp
-        lectures/lec_09/array_as_parameter.cpp
+        #        lectures/lec_09/array_as_parameter.cpp
+        lectures/lec_09/array_linear_search.cpp
 )
