@@ -20,9 +20,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="changes" comment="feat: Create pointer_declaration.cpp.">
-      <change afterPath="$PROJECT_DIR$/lectures/lec_10/dynamic_variables.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="changes" comment="feat: Create dynamic_variables.cpp.">
+      <change afterPath="$PROJECT_DIR$/lectures/lec_10/opertations_on_pointer_variables.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -136,15 +135,7 @@
       <workItem from="1715240854279" duration="10294000" />
       <workItem from="1715264768589" duration="37218000" />
       <workItem from="1715377568404" duration="3000" />
-      <workItem from="1715420794774" duration="14929000" />
-    </task>
-    <task id="LOCAL-00083" summary="feat: Create question_sample_1_a.cpp.">
-      <option name="closed" value="true" />
-      <created>1715325986496</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1715325986496</updated>
+      <workItem from="1715420794774" duration="15303000" />
     </task>
     <task id="LOCAL-00084" summary="feat: Create question_sample_1_b.cpp.">
       <option name="closed" value="true" />
@@ -530,7 +521,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715448023886</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="feat: Create dynamic_variables.cpp.">
+      <option name="closed" value="true" />
+      <created>1715449891472</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1715449891472</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -553,7 +552,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: Create score.cpp." />
     <MESSAGE value="feat: Create call_val_vs_ref.cpp." />
     <MESSAGE value="feat: Create ref_val_params.cpp." />
     <MESSAGE value="feat: Create static_var.cpp." />
@@ -578,7 +576,8 @@
     <MESSAGE value="feat: Create two_dimen_array_operations.cpp." />
     <MESSAGE value="feat: Create assignment.cpp." />
     <MESSAGE value="feat: Create pointer_declaration.cpp." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Create pointer_declaration.cpp." />
+    <MESSAGE value="feat: Create dynamic_variables.cpp." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Create dynamic_variables.cpp." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
