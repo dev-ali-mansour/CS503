@@ -20,8 +20,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="changes" comment="feat: Create operations_pointer_example.cpp.">
-      <change afterPath="$PROJECT_DIR$/lectures/lec_10/dynamic_array.cpp" afterDir="false" />
+    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="changes" comment="feat: Create dynamic_2d_array.cpp.">
+      <change afterPath="$PROJECT_DIR$/lectures/lec_10/dynamic_2d_operations.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
@@ -136,23 +136,7 @@
       <workItem from="1715240854279" duration="10294000" />
       <workItem from="1715264768589" duration="37218000" />
       <workItem from="1715377568404" duration="3000" />
-      <workItem from="1715420794774" duration="16242000" />
-    </task>
-    <task id="LOCAL-00086" summary="feat: Create question_sample_1_c.cpp.">
-      <option name="closed" value="true" />
-      <created>1715327044417</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1715327044417</updated>
-    </task>
-    <task id="LOCAL-00087" summary="feat: Create question_sample_1_d.cpp.">
-      <option name="closed" value="true" />
-      <created>1715327225967</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1715327225967</updated>
+      <workItem from="1715420794774" duration="16912000" />
     </task>
     <task id="LOCAL-00088" summary="feat: Create question_sample_1_e.cpp.">
       <option name="closed" value="true" />
@@ -530,7 +514,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715450662232</updated>
     </task>
-    <option name="localTasksCounter" value="135" />
+    <task id="LOCAL-00135" summary="feat: Create dynamic_array.cpp.">
+      <option name="closed" value="true" />
+      <created>1715451152537</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1715451152537</updated>
+    </task>
+    <task id="LOCAL-00136" summary="feat: Create dynamic_2d_array.cpp.">
+      <option name="closed" value="true" />
+      <created>1715451439733</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1715451439733</updated>
+    </task>
+    <option name="localTasksCounter" value="137" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -553,8 +553,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: Create static_var.cpp." />
-    <MESSAGE value="feat: Create question_sample_1.cpp." />
     <MESSAGE value="feat: Create question_sample_2.cpp." />
     <MESSAGE value="feat: Create question_sample_3.cpp." />
     <MESSAGE value="feat: Create question_sample_4.cpp." />
@@ -578,7 +576,9 @@
     <MESSAGE value="feat: Create dynamic_variables.cpp." />
     <MESSAGE value="feat: Create operations_on_pointer_variables.cpp." />
     <MESSAGE value="feat: Create operations_pointer_example.cpp." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Create operations_pointer_example.cpp." />
+    <MESSAGE value="feat: Create dynamic_array.cpp." />
+    <MESSAGE value="feat: Create dynamic_2d_array.cpp." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Create dynamic_2d_array.cpp." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
