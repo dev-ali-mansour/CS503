@@ -114,5 +114,5 @@ add_executable(CS503
         #        lectures/lec_08/multiply_recursive.cpp
                 lectures/lec_09/array_declaration.cpp
         #        lectures/lec_09/reverse_five_numbers.cpp
-#        lectures/lec_09/array_operations.cpp
+        #        lectures/lec_09/array_operations.cpp
 )
