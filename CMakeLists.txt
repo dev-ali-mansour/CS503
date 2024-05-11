@@ -117,6 +117,7 @@ add_executable(CS503
         #        lectures/lec_09/array_operations.cpp
         #        lectures/lec_09/array_as_parameter.cpp
         #        lectures/lec_09/array_linear_search.cpp
-#        lectures/lec_09/two_dimen_array_declaration.cpp
-        lectures/lec_09/two_dimen_array_init.cpp
+        #        lectures/lec_09/two_dimen_array_declaration.cpp
+        #        lectures/lec_09/two_dimen_array_init.cpp
+        lectures/lec_09/two_dimen_array_print.cpp
 )
