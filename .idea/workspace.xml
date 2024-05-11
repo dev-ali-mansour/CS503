@@ -20,7 +20,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="changes" comment="feat: Create two_dimen_array_init.cpp.">
+    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="changes" comment="feat: Create two_dimen_array_print.cpp.">
       <change afterPath="$PROJECT_DIR$/lectures/lec_09/two_dimen_array.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,23 +134,7 @@
       <workItem from="1715240854279" duration="10294000" />
       <workItem from="1715264768589" duration="37218000" />
       <workItem from="1715377568404" duration="3000" />
-      <workItem from="1715420794774" duration="7332000" />
-    </task>
-    <task id="LOCAL-00078" summary="feat: Create do_while_loop.cpp.">
-      <option name="closed" value="true" />
-      <created>1715324575129</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1715324575129</updated>
-    </task>
-    <task id="LOCAL-00079" summary="feat: Create compare_while_do_while.cpp.">
-      <option name="closed" value="true" />
-      <created>1715324875482</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1715324875482</updated>
+      <workItem from="1715420794774" duration="7723000" />
     </task>
     <task id="LOCAL-00080" summary="feat: Create compare_while_do_while.cpp.">
       <option name="closed" value="true" />
@@ -528,7 +512,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715439975054</updated>
     </task>
-    <option name="localTasksCounter" value="127" />
+    <task id="LOCAL-00127" summary="feat: Create two_dimen_array_init.cpp.">
+      <option name="closed" value="true" />
+      <created>1715440195709</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1715440195709</updated>
+    </task>
+    <task id="LOCAL-00128" summary="feat: Create two_dimen_array_print.cpp.">
+      <option name="closed" value="true" />
+      <created>1715440347931</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1715440347931</updated>
+    </task>
+    <option name="localTasksCounter" value="129" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -551,7 +551,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: Create star_line.cpp." />
     <MESSAGE value="feat: Create print.cpp." />
     <MESSAGE value="feat: Create value_parameter.cpp." />
     <MESSAGE value="feat: Create reference_parameter.cpp." />
@@ -576,7 +575,8 @@
     <MESSAGE value="feat: Create array_linear_search.cpp." />
     <MESSAGE value="feat: Create two_dimen_array_decalaration.cpp." />
     <MESSAGE value="feat: Create two_dimen_array_init.cpp." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Create two_dimen_array_init.cpp." />
+    <MESSAGE value="feat: Create two_dimen_array_print.cpp." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Create two_dimen_array_print.cpp." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
