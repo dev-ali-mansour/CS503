@@ -20,7 +20,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="changes" comment="feat: Create array_as_parameter.cpp.">
+    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="changes" comment="feat: Create array_linear_search.cpp.">
+      <change afterPath="$PROJECT_DIR$/lectures/lec_09/two_dimen_array.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,15 +136,7 @@
       <workItem from="1715240854279" duration="10294000" />
       <workItem from="1715264768589" duration="37218000" />
       <workItem from="1715377568404" duration="3000" />
-      <workItem from="1715420794774" duration="5810000" />
-    </task>
-    <task id="LOCAL-00075" summary="feat: Create sum_avg_5_numbers.cpp.">
-      <option name="closed" value="true" />
-      <created>1715324241470</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1715324241470</updated>
+      <workItem from="1715420794774" duration="6992000" />
     </task>
     <task id="LOCAL-00076" summary="feat: Create while_loop.cpp.">
       <option name="closed" value="true" />
@@ -528,7 +522,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715438222885</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="feat: Create array_linear_search.cpp.">
+      <option name="closed" value="true" />
+      <created>1715439258479</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1715439258479</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -551,7 +553,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: Create function_prototype.cpp." />
     <MESSAGE value="feat: Create largest_of_10.cpp." />
     <MESSAGE value="feat: Create multiples.cpp." />
     <MESSAGE value="feat: Create star_line.cpp." />
@@ -576,7 +577,8 @@
     <MESSAGE value="feat: Create array_operations.cpp." />
     <MESSAGE value="feat: Create array_declaration.cpp." />
     <MESSAGE value="feat: Create array_as_parameter.cpp." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Create array_as_parameter.cpp." />
+    <MESSAGE value="feat: Create array_linear_search.cpp." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Create array_linear_search.cpp." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
