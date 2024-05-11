@@ -20,8 +20,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="changes" comment="feat: Create dynamic_variables.cpp.">
-      <change afterPath="$PROJECT_DIR$/lectures/lec_10/opertations_on_pointer_variables.cpp" afterDir="false" />
+    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="changes" comment="feat: Create operations_pointer_example.cpp.">
+      <change afterPath="$PROJECT_DIR$/lectures/lec_10/dynamic_array.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -135,23 +136,7 @@
       <workItem from="1715240854279" duration="10294000" />
       <workItem from="1715264768589" duration="37218000" />
       <workItem from="1715377568404" duration="3000" />
-      <workItem from="1715420794774" duration="15303000" />
-    </task>
-    <task id="LOCAL-00084" summary="feat: Create question_sample_1_b.cpp.">
-      <option name="closed" value="true" />
-      <created>1715326671933</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1715326671933</updated>
-    </task>
-    <task id="LOCAL-00085" summary="feat: Create question_sample_1_b.cpp.">
-      <option name="closed" value="true" />
-      <created>1715326686102</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1715326686102</updated>
+      <workItem from="1715420794774" duration="16242000" />
     </task>
     <task id="LOCAL-00086" summary="feat: Create question_sample_1_c.cpp.">
       <option name="closed" value="true" />
@@ -529,7 +514,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715449891472</updated>
     </task>
-    <option name="localTasksCounter" value="133" />
+    <task id="LOCAL-00133" summary="feat: Create operations_on_pointer_variables.cpp.">
+      <option name="closed" value="true" />
+      <created>1715450395220</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1715450395220</updated>
+    </task>
+    <task id="LOCAL-00134" summary="feat: Create operations_pointer_example.cpp.">
+      <option name="closed" value="true" />
+      <created>1715450662231</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1715450662232</updated>
+    </task>
+    <option name="localTasksCounter" value="135" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -552,8 +553,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: Create call_val_vs_ref.cpp." />
-    <MESSAGE value="feat: Create ref_val_params.cpp." />
     <MESSAGE value="feat: Create static_var.cpp." />
     <MESSAGE value="feat: Create question_sample_1.cpp." />
     <MESSAGE value="feat: Create question_sample_2.cpp." />
@@ -577,7 +576,9 @@
     <MESSAGE value="feat: Create assignment.cpp." />
     <MESSAGE value="feat: Create pointer_declaration.cpp." />
     <MESSAGE value="feat: Create dynamic_variables.cpp." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Create dynamic_variables.cpp." />
+    <MESSAGE value="feat: Create operations_on_pointer_variables.cpp." />
+    <MESSAGE value="feat: Create operations_pointer_example.cpp." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Create operations_pointer_example.cpp." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

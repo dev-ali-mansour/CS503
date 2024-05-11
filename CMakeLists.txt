@@ -126,4 +126,5 @@ add_executable(CS503
         #        lectures/lec_10/dynamic_variables.cpp
         #        lectures/lec_10/operations_on_pointer_variables.cpp
         lectures/lec_10/operations_pointer_example.cpp
+        lectures/lec_10/dynamic_array.cpp
 )
