@@ -121,5 +121,6 @@ add_executable(CS503
         #        lectures/lec_09/two_dimen_array_init.cpp
         #        lectures/lec_09/two_dimen_array_print.cpp
         #        lectures/lec_09/two_dimen_array_operations.cpp
-        lectures/lec_09/assignment.cpp
+#        lectures/lec_09/assignment.cpp
+        lectures/lec_10/pointer_declaration.cpp
 )

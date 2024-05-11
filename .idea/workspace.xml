@@ -20,8 +20,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="changes" comment="feat: Create two_dimen_array_operations.cpp.">
-      <change afterPath="$PROJECT_DIR$/lectures/lec_09/assignment.cpp" afterDir="false" />
+    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="changes" comment="feat: Create assignment.cpp.">
+      <change afterPath="$PROJECT_DIR$/lectures/lec_10/pointer_declaration.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
@@ -136,15 +136,7 @@
       <workItem from="1715240854279" duration="10294000" />
       <workItem from="1715264768589" duration="37218000" />
       <workItem from="1715377568404" duration="3000" />
-      <workItem from="1715420794774" duration="11129000" />
-    </task>
-    <task id="LOCAL-00081" summary="feat: Create factorial.cpp.">
-      <option name="closed" value="true" />
-      <created>1715325440215</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1715325440215</updated>
+      <workItem from="1715420794774" duration="13881000" />
     </task>
     <task id="LOCAL-00082" summary="feat: Create nested_loop.cpp.">
       <option name="closed" value="true" />
@@ -530,7 +522,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715440632821</updated>
     </task>
-    <option name="localTasksCounter" value="130" />
+    <task id="LOCAL-00130" summary="feat: Create assignment.cpp.">
+      <option name="closed" value="true" />
+      <created>1715444639652</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1715444639652</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -553,7 +553,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: Create value_parameter.cpp." />
     <MESSAGE value="feat: Create reference_parameter.cpp." />
     <MESSAGE value="feat: Create score.cpp." />
     <MESSAGE value="feat: Create call_val_vs_ref.cpp." />
@@ -578,7 +577,8 @@
     <MESSAGE value="feat: Create two_dimen_array_init.cpp." />
     <MESSAGE value="feat: Create two_dimen_array_print.cpp." />
     <MESSAGE value="feat: Create two_dimen_array_operations.cpp." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Create two_dimen_array_operations.cpp." />
+    <MESSAGE value="feat: Create assignment.cpp." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Create assignment.cpp." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
