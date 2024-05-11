@@ -111,5 +111,6 @@ add_executable(CS503
         #        lectures/lec_08/overloaded_sum.cpp
         #        lectures/lec_08/factorial_recursive.cpp
         #        lectures/lec_08/fibonacci_recursive.cpp
-        lectures/lec_08/multiply_recursive.cpp
+        #        lectures/lec_08/multiply_recursive.cpp
+        lectures/lec_09/reverse_five_numbers.cpp
 )
