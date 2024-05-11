@@ -126,3 +126,9 @@ void copyArray(int list1[],  int list2[],int tar, int numOfElements) {
         tar++;
     }
 }
+
+/*
+Functions Cannot Return a Value of the Type Array
+        C++ does not allow functions to return a value of the type array.
+Note that the previous functions sumArray and indexLargestElement
+return values of type int.*/
