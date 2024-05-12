@@ -20,8 +20,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="changes" comment="feat: Create empType.cpp.">
-      <change afterPath="$PROJECT_DIR$/lectures/lec_11/array_in_struct.cpp" afterDir="false" />
+    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="changes" comment="feat: Create array_in_struct.cpp.">
+      <change afterPath="$PROJECT_DIR$/lectures/lec_11/array_of_struct.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
@@ -137,14 +137,6 @@
       <workItem from="1715264768589" duration="37218000" />
       <workItem from="1715377568404" duration="3000" />
       <workItem from="1715420794774" duration="34066000" />
-    </task>
-    <task id="LOCAL-00095" summary="feat: Create largest_of_10.cpp.">
-      <option name="closed" value="true" />
-      <created>1715332136580</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1715332136580</updated>
     </task>
     <task id="LOCAL-00096" summary="feat: Create multiples.cpp.">
       <option name="closed" value="true" />
@@ -530,7 +522,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715535416618</updated>
     </task>
-    <option name="localTasksCounter" value="144" />
+    <task id="LOCAL-00144" summary="feat: Create array_in_struct.cpp.">
+      <option name="closed" value="true" />
+      <created>1715536476774</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1715536476774</updated>
+    </task>
+    <option name="localTasksCounter" value="145" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -553,7 +553,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: Create fibonacci_recursive.cpp." />
     <MESSAGE value="refactor: Update The Output Comment Of question_sample_1_d.cpp." />
     <MESSAGE value="feat: Create reverse_five_numbers.cpp." />
     <MESSAGE value="feat: Create array_operations.cpp." />
@@ -578,7 +577,8 @@
     <MESSAGE value="feat: Create access_struct_members.cpp." />
     <MESSAGE value="feat: Create struct_variable_functions.cpp." />
     <MESSAGE value="feat: Create empType.cpp." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Create empType.cpp." />
+    <MESSAGE value="feat: Create array_in_struct.cpp." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Create array_in_struct.cpp." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
