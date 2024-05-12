@@ -12,7 +12,7 @@ int main() {
     cout << endl;
     cin >> rows >> columns;
     //Create the rows of board
-    board = new int *[rows]; //Todo delete dynamic variable to avoid memory leak;
+    board = new int *[rows];
     //Create the columns of board
     for (int row = 0; row < rows; row++) board[row] = new int[columns];
     //Insert elements into board
@@ -20,6 +20,8 @@ int main() {
     //Output the elements of board
     cout << "Board:" << endl;
     print(board, rows, columns);
+
+    delete[]board;
 
     return 0;
 }

@@ -20,10 +20,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="changes" comment="feat: Create dynamic_2d_array.cpp.">
-      <change afterPath="$PROJECT_DIR$/lectures/lec_10/dynamic_2d_operations.cpp" afterDir="false" />
+    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="changes" comment="refactor: array_as_parameter.cpp.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/lec_09/assignment.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/lec_09/assignment.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lectures/lec_10/dynamic_2d_operations.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/lec_10/dynamic_2d_operations.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,23 +137,7 @@
       <workItem from="1715240854279" duration="10294000" />
       <workItem from="1715264768589" duration="37218000" />
       <workItem from="1715377568404" duration="3000" />
-      <workItem from="1715420794774" duration="16912000" />
-    </task>
-    <task id="LOCAL-00088" summary="feat: Create question_sample_1_e.cpp.">
-      <option name="closed" value="true" />
-      <created>1715327365752</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1715327365752</updated>
-    </task>
-    <task id="LOCAL-00089" summary="feat: Create question_sample_2.txt.">
-      <option name="closed" value="true" />
-      <created>1715327643281</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1715327643281</updated>
+      <workItem from="1715420794774" duration="34066000" />
     </task>
     <task id="LOCAL-00090" summary="feat: Create question_sample_3.txt.">
       <option name="closed" value="true" />
@@ -530,7 +515,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715451439733</updated>
     </task>
-    <option name="localTasksCounter" value="137" />
+    <task id="LOCAL-00137" summary="feat: Create dynamic_2d_operations.cpp.">
+      <option name="closed" value="true" />
+      <created>1715452521387</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1715452521387</updated>
+    </task>
+    <task id="LOCAL-00138" summary="refactor: array_as_parameter.cpp.">
+      <option name="closed" value="true" />
+      <created>1715472417101</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1715472417102</updated>
+    </task>
+    <option name="localTasksCounter" value="139" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -553,8 +554,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: Create question_sample_2.cpp." />
-    <MESSAGE value="feat: Create question_sample_3.cpp." />
     <MESSAGE value="feat: Create question_sample_4.cpp." />
     <MESSAGE value="feat: Create function_overloading.cpp." />
     <MESSAGE value="feat: Create function_overloading_enhanced.cpp." />
@@ -578,7 +577,9 @@
     <MESSAGE value="feat: Create operations_pointer_example.cpp." />
     <MESSAGE value="feat: Create dynamic_array.cpp." />
     <MESSAGE value="feat: Create dynamic_2d_array.cpp." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Create dynamic_2d_array.cpp." />
+    <MESSAGE value="feat: Create dynamic_2d_operations.cpp." />
+    <MESSAGE value="refactor: array_as_parameter.cpp." />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: array_as_parameter.cpp." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
