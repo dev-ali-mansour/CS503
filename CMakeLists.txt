@@ -132,5 +132,6 @@ add_executable(CS503
         #        lectures/lec_11/struct_declaration.cpp
         #        lectures/lec_11/struct_declaration2.cpp
         #        lectures/lec_11/access_struct_members.cpp
-        lectures/lec_11/struct_variable_functions.cpp
+        #        lectures/lec_11/struct_variable_functions.cpp
+        lectures/lec_11/empType.cpp
 )
