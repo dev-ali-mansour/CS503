@@ -135,6 +135,7 @@ add_executable(CS503
         #        lectures/lec_11/struct_variable_functions.cpp
         #        lectures/lec_11/empType.cpp
         #        lectures/lec_11/array_in_struct.cpp
-                lectures/lec_11/array_of_struct.cpp
-        lectures/lec_12/clockType_1.cpp
+        #        lectures/lec_11/array_of_struct.cpp
+        #        lectures/lec_12/clockType_1.cpp
+        lectures/lec_12/clockType_2.cpp
 )

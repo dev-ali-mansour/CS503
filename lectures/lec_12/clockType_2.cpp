@@ -1,4 +1,8 @@
 class clockType {
+private:
+    int hr;
+    int min;
+    int sec;
 public:
     void setTime(int, int, int);
 
@@ -9,13 +13,7 @@ public:
     void incrementMinutes();
 
     void incrementHours();
-
-private: //u must write private
-    int hr;
-    int min;
-    int sec;
 };
-
 
 int main() {
     return 0;
