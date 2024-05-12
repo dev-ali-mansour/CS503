@@ -139,4 +139,6 @@ add_executable(CS503
         #        lectures/lec_12/clockType_1.cpp
         #        lectures/lec_12/clockType_2.cpp
         lectures/lec_12/clockType_3.cpp
+        lectures/lec_12/clockTypeImp.cpp
+        lectures/lec_12/test.cpp
 )

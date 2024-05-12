@@ -20,7 +20,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="changes" comment="feat: Create clockType_2.cpp.">
+    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="changes" comment="feat: Create clockType_3.cpp.">
+      <change afterPath="$PROJECT_DIR$/lectures/lec_12/clockType.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lectures/lec_12/clockTypeImp.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lectures/lec_12/test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -135,22 +139,6 @@
       <workItem from="1715264768589" duration="37218000" />
       <workItem from="1715377568404" duration="3000" />
       <workItem from="1715420794774" duration="34066000" />
-    </task>
-    <task id="LOCAL-00098" summary="feat: Create print.cpp.">
-      <option name="closed" value="true" />
-      <created>1715332894885</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1715332894885</updated>
-    </task>
-    <task id="LOCAL-00099" summary="feat: Create value_parameter.cpp.">
-      <option name="closed" value="true" />
-      <created>1715332986961</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1715332986961</updated>
     </task>
     <task id="LOCAL-00100" summary="feat: Create reference_parameter.cpp.">
       <option name="closed" value="true" />
@@ -528,7 +516,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715539485309</updated>
     </task>
-    <option name="localTasksCounter" value="147" />
+    <task id="LOCAL-00147" summary="feat: Create clockType_3.cpp.">
+      <option name="closed" value="true" />
+      <created>1715539578648</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1715539578648</updated>
+    </task>
+    <task id="LOCAL-00148" summary="feat: Create clockType_3.cpp.">
+      <option name="closed" value="true" />
+      <created>1715539585186</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1715539585186</updated>
+    </task>
+    <option name="localTasksCounter" value="149" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -551,7 +555,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: Create array_operations.cpp." />
     <MESSAGE value="feat: Create array_declaration.cpp." />
     <MESSAGE value="feat: Create array_as_parameter.cpp." />
     <MESSAGE value="feat: Create array_linear_search.cpp." />
@@ -576,7 +579,8 @@
     <MESSAGE value="feat: Create array_in_struct.cpp." />
     <MESSAGE value="feat: Create clockType_1.cpp." />
     <MESSAGE value="feat: Create clockType_2.cpp." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Create clockType_2.cpp." />
+    <MESSAGE value="feat: Create clockType_3.cpp." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Create clockType_3.cpp." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
