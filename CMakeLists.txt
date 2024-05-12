@@ -128,6 +128,7 @@ add_executable(CS503
         #        lectures/lec_10/operations_pointer_example.cpp
         #        lectures/lec_10/dynamic_array.cpp
         #        lectures/lec_10/dynamic_2d_array.cpp
-        lectures/lec_10/dynamic_2d_operations.cpp
-        lectures/lec_11/struct_declaration.cpp
+        #        lectures/lec_10/dynamic_2d_operations.cpp
+        #        lectures/lec_11/struct_declaration.cpp
+        lectures/lec_11/struct_declaration2.cpp
 )
