@@ -1,5 +1,5 @@
-#include <iostream>
 #include "die.h"
+#include <cstdlib>
 
 using namespace std;
 
