@@ -20,14 +20,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="changes" comment="feat: Create docType Example Of Hiding Implementation Of Class.">
-      <change afterPath="$PROJECT_DIR$/lectures/lec_12/die.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lectures/lec_12/die.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lectures/lec_12/die_main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/lec_12/clockTypeImp.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/lec_12/clockTypeImp.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lectures/lec_12/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/lec_12/clockType_main.cpp" afterDir="false" />
+    <list default="true" id="070b3d85-e237-429d-a25a-b548cc4ae136" name="changes" comment="feat: Create Die Example Of Hiding Implementation Of Class.">
+      <change beforePath="$PROJECT_DIR$/lectures/lec_12/die.h" beforeDir="false" afterPath="$PROJECT_DIR$/lectures/lec_12/die.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,22 +135,6 @@
       <workItem from="1715264768589" duration="37218000" />
       <workItem from="1715377568404" duration="3000" />
       <workItem from="1715420794774" duration="34066000" />
-    </task>
-    <task id="LOCAL-00101" summary="feat: Create score.cpp.">
-      <option name="closed" value="true" />
-      <created>1715333175281</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1715333175281</updated>
-    </task>
-    <task id="LOCAL-00102" summary="feat: Create call_val_vs_ref.cpp.">
-      <option name="closed" value="true" />
-      <created>1715340911471</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1715340911471</updated>
     </task>
     <task id="LOCAL-00103" summary="feat: Create call_val_vs_ref.cpp.">
       <option name="closed" value="true" />
@@ -534,7 +512,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715540953993</updated>
     </task>
-    <option name="localTasksCounter" value="150" />
+    <task id="LOCAL-00150" summary="feat: Create docType Example Of Hiding Implementation Of Class.">
+      <option name="closed" value="true" />
+      <created>1715567560880</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1715567560880</updated>
+    </task>
+    <task id="LOCAL-00151" summary="feat: Create Die Example Of Hiding Implementation Of Class.">
+      <option name="closed" value="true" />
+      <created>1715567590426</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1715567590426</updated>
+    </task>
+    <option name="localTasksCounter" value="152" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -557,7 +551,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: Create array_as_parameter.cpp." />
     <MESSAGE value="feat: Create array_linear_search.cpp." />
     <MESSAGE value="feat: Create two_dimen_array_decalaration.cpp." />
     <MESSAGE value="feat: Create two_dimen_array_init.cpp." />
@@ -582,7 +575,8 @@
     <MESSAGE value="feat: Create clockType_2.cpp." />
     <MESSAGE value="feat: Create clockType_3.cpp." />
     <MESSAGE value="feat: Create docType Example Of Hiding Implementation Of Class." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Create docType Example Of Hiding Implementation Of Class." />
+    <MESSAGE value="feat: Create Die Example Of Hiding Implementation Of Class." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Create Die Example Of Hiding Implementation Of Class." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
