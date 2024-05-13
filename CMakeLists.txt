@@ -138,7 +138,9 @@ add_executable(CS503
         #        lectures/lec_11/array_of_struct.cpp
         #        lectures/lec_12/clockType_1.cpp
         #        lectures/lec_12/clockType_2.cpp
-        lectures/lec_12/clockType_3.cpp
+        #        lectures/lec_12/clockType_3.cpp
+        #        lectures/lec_12/clockTypeImp.cpp
+        lectures/lec_12/clockType.h
         lectures/lec_12/clockTypeImp.cpp
-        lectures/lec_12/test.cpp
+        lectures/lec_12/clockType_main.cpp
 )

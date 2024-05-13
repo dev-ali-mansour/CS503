@@ -21,6 +21,9 @@ int main() {
     yourClock.printTime(); //print the time of yourClock
     cout << endl;
     //Set the time of myClock using the value of the variables hours,minutes,and seconds
+    hours = 4;
+    minutes = 43;
+    seconds = 23;
     myClock.setTime(hours, minutes, seconds);
     cout << "New myClock: ";
 //print the time of myClock
